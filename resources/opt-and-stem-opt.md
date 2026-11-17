@@ -19,7 +19,7 @@ STEM OPT is a separate extension workflow, not merely an extra date added to pos
 ## Official starting points
 
 - [USCIS Form I-765 Instructions](https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf)
-- [Study in the States: OPT Practical Training](https://studyinthestates.dhs.gov/sites/default/files/OPT%20Practical%20Training.pdf)
+- [Study in the States: F-1 Practical Training Overview](https://studyinthestates.dhs.gov/assets/SEVP_PracticalTrainingOverview_1-pager.pdf)
 - [Study in the States: Form I-983 information](https://studyinthestates.dhs.gov/assets/sevp_ask_the_experts_webinar_form_i983_webinar_transcript.pdf)
 
-Last verified: 2026-11-10 (America/Los_Angeles).
+Last verified: 2026-11-16 (America/Los_Angeles).
