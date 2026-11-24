@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-23
+
+- Added a reader navigation section for the newly published Landin Career work-authorization and sponsorship communication guide, including its fact-card and clarification exercises.
+- Kept current authorization, future sponsorship, and start dates separate; did not add eligibility decisions, approval forecasts, or employer promises.
+- This is a content-navigation update. Some government source endpoints returned 403 during this week's review; no full policy/link re-verification is claimed and existing verification dates are unchanged.
+
 ## 2026-11-16
 
 - Replaced a retired Study in the States OPT Practical Training PDF that returned 404 with the official [F-1 Practical Training Overview](https://studyinthestates.dhs.gov/assets/SEVP_PracticalTrainingOverview_1-pager.pdf).
